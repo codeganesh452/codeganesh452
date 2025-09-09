@@ -44,12 +44,6 @@ Responsive frontend website showcasing shoe products with a modern UI layout.
 - **Tech:** HTML5, CSS3, Bootstrap, JavaScript  
 👉 [Live Demo](https://codeganesh452.github.io/shoeverse/) | [GitHub Repo](https://github.com/codeganesh452/shoeverse)  
 
-
----
-
-## 📊 GitHub Stats  
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeganesh452&show_icons=true&theme=radical)  
-
 ---
 
 ## 📫 Connect With Me  
